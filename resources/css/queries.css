@@ -78,7 +78,41 @@
     
     .works-step { margin-bottom: 40px; }
     .works-step:last-of-type { margin-bottom: 60px; }
+
+        
+    .app-screen {
+        width: 40%;
+        margin-left: 30%;
+        margin-right: 30%;
+    }
     
+    .row {
+        max-width: 90%;
+    }
+    
+    .hero-text-box {
+        width: 90%;
+    }
+    
+    .footer-nav,
+    .social-links {
+       float: none;
+	text-align: center;
+    }
+
+    footer {
+        padding: 30px;
+        font-size: 80%;
+    }
+
+    #apple {
+    	margin-left: 7%;
+    }
+
+    #android {
+    	margin-right: 0;
+    }
+
 }
 
 /* Small phones: from 0 to 480px */
